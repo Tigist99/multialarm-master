@@ -5,7 +5,11 @@
 |Bethelhem chanyalew|1148|
 |Bruktawit Mekonnew|1158|
 |Yosef Amdu|0485|
-
+# multi alarm
+ in this alarm includes 
+   -alarm ringtone
+   -multialarm  that means set multi alarms 
+   -when we use multiplealarm we can set alamrms with in gap
 # Alarm All Pages
 ![Alarm hom](https://user-images.githubusercontent.com/77550884/104906722-ef22ad80-5938-11eb-8124-32fe56fc1105.jpg)
 ### Home page 
